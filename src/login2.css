@@ -1,0 +1,222 @@
+
+.main {
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    font-family: Inter;
+    font-size:1.75rem;
+    font-weight: 400;
+    line-height: 39px;
+    display: flex;
+  }
+  .image-105 {
+    height: 100%;
+    background-image: url("/src/assets/image105.png");
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top:10px;
+    padding-bottom: 1px;
+    padding-left: 61px;
+    display: flex;
+  }
+  .flex-container {
+    width: 40%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 1px;
+    line-height: 34px;
+    display: flex;
+  }
+  .f1 {
+    width: 50%;
+    flex-direction: row;
+    flex-basis: 5%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-left: 18px;
+    display: flex;
+  }
+  .f2 {
+      width: 40%;
+      flex-direction: row;
+      flex-basis: 4%;
+      justify-content: space-between;
+      align-items: stretch;
+      display: flex;
+  }
+  .f3 {
+    width: 50%;
+    flex-direction: row;
+    flex-basis: 5%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 7px;
+    margin-left: 18px;
+    display: flex;
+  }  
+  .f4 {
+    width: 45%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 1px;
+    display: flex;
+  }
+  .f5 {
+    width: 50%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 30px;
+    margin-left: 18px;
+    display: flex;
+  }
+  .shop-details {
+    margin-top: 3px;
+    margin-bottom: 33px;
+    margin-left: 13px;
+    font-weight: 700;
+  }
+  .shop-address {
+    margin-top: 3px;
+    margin-left: -440px;
+  }
+  .address-line-2 {
+    margin-top: 1px;
+    margin-left: -440px;
+  }
+  .city {
+    margin-left: -45px;  
+    }
+  
+  .state-region {
+   margin-bottom: 1px;
+   margin-right:65px;
+  }
+  .postal-zip-code {
+    margin-left: -45px;
+  }
+
+  .country {
+      margin-right:110px;
+ }
+  .working-hours{
+    margin-left: -20px;
+  } 
+  .working-days {
+    margin-right: 85px;
+  }
+  .r1{
+    width: 50%;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: #fff;
+    border: none;
+    flex-direction: row;
+    flex-basis: 4%;
+    justify-content: flex-start;
+    align-items: stretch;
+    margin-bottom: 6px;
+    margin-left: 18px;
+    display: flex;
+  }
+.r2 {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  height: 90%;
+  background-color: #fff;
+  border: none;
+  flex-direction: row;
+  flex-basis: 42%;
+  justify-content: flex-start;
+  align-self: flex-end;
+  align-items: stretch;
+  margin-top: 1px;
+  display: flex;
+}
+
+.r3 {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  height: 90%;
+  background-color: #fff;
+  border: none;
+  flex-direction: row;
+  flex-basis: 44%;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-bottom: 1px;
+  display: flex;
+  }
+  .r4 {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    height: 100%;
+    background-color: #fff;
+    border: none;
+    flex-direction: row;
+    flex-basis: 44%;
+    justify-content: flex-start;
+    align-items: stretch;
+    display: flex;
+  }
+  .r5 {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    height: 100%;
+    background-color: #fff;
+    border: none;
+    flex-direction: row;
+    flex-basis: 42%;
+    justify-content: flex-start;
+    align-items: stretch;
+    display: flex;
+  }
+  .r6 {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    height: 100%;
+    background-color: #fff;
+    border: none;
+    flex-direction: row;
+    flex-basis: 44%;
+    justify-content: flex-start;
+    align-items: stretch;
+    display: flex;
+  }
+  .r7 {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    text-align: center;
+    color: #000;
+    width: 20%;
+    background-color: #d9d9d9;
+    border: none;
+    border-radius: 20px;
+    flex-direction: row;
+    flex-basis: 8%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    margin-bottom: 8px;
+    margin-left: 59px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    font-size: 1.5rem;
+    line-height: 39px;
+    display: flex;
+  }
+ .register {
+    margin-bottom: 1px;
+    margin-left: 1px;
+  }
+  

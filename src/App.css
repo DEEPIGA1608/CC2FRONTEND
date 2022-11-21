@@ -1,0 +1,190 @@
+.mac-book-air-34 {
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Inter;
+  font-size: .938rem;
+  font-weight: 400;
+  line-height: 18px;
+  display: flex;
+  background-size:1500px 1000px;
+}
+
+.image-105 {
+  height: 100%;
+  background-image: url("https://s3-alpha-sig.figma.com/img/b29d/ea27/ce8cff08e53a303b11e8bd438e0449ff?Expires=1669593600&Signature=ag4~RCMs4E0Cw03YdKXOdw4MfqTkUr0bLNnpvSAZUdl7KtIjXPYwygnwocivu5CDJ3HItn~AWGmeR49~ZYC1DP9yr4dllsEw381sJLk3FpgeyqxV7caa24ec3KQt8AJPLwAF~5dtD11mWMr2u2sNy-MvPVQxLvuDMDvqpmC6NOY1b1EJuc7XhpLcVk4dp7Dj7to6CogazDikSG1ZYRup9~3d9RVnYYcbjIC89Cae4uK~TGRbOIEj2Gtc8Rkwlxw84YauwDtStwVxZ3ij2VFBOYlWFZFVR7ewR6rvEaJbilIA~OwNnmitrbySWv6QxzB2a8liH8VHWsOYrASGwe1EVQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 80px;
+  padding-bottom: 34px;
+  padding-right: 32px;
+  display: flex;
+}
+
+.login {
+  text-align: center;
+  margin-top: 9px;
+  margin-bottom: 54px;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 77px;
+}
+
+.username {
+  margin-top: 6px;
+  font-size: 2rem;
+  font-style: italic;
+  line-height: 39px;
+}
+
+.flex-container {
+  width: 20%;
+  flex-direction: row;
+  flex-basis: 3%;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  display: flex;
+}
+
+.image-2 {
+  width: 25px;
+  height: 23px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 53px;
+}
+
+.rectangle-41 {
+  height: 100%;
+  background-color: #d9d9d9;
+  border: none;
+  flex-direction: row;
+  flex-basis: 82%;
+  justify-content: flex-start;
+  align-items: stretch;
+  display: flex;
+}
+
+.password {
+  margin-top: 2px;
+  font-size: 2rem;
+  font-style: italic;
+  line-height: 39px;
+}
+
+.flex-container-1 {
+  width: 20%;
+  flex-direction: row;
+  flex-basis: 3%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 8px;
+  display: flex;
+}
+
+.image-3 {
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+}
+
+.rectangle-42 {
+  height: 100%;
+  background-color: #d9d9d9;
+  border: none;
+  flex-direction: row;
+  flex-basis: 80%;
+  justify-content: flex-start;
+  align-self: flex-end;
+  align-items: stretch;
+  margin-top: 1px;
+  display: flex;
+}
+
+.rectangle-4 {
+  color: #000;
+  width: 20%;
+  background-color: #d9d9d9;
+  border: none;
+  border-radius: 20px;
+  flex-direction: row;
+  flex-basis: 6%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-left: 38px;
+  padding-top: 4px;
+  padding-right: 4px;
+  font-family: Inter;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 29px;
+  display: flex;
+}
+
+.login-1 {
+  margin-top: 2px;
+}
+
+.or-sign-up-using {
+  margin-top: 1px;
+  font-weight: 300;
+}
+
+.flex-container-2 {
+  width: 10%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 7px;
+  margin-left: 9px;
+  display: flex;
+}
+
+.image-4 {
+  width: 26px;
+  height: 23px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 500px;
+}
+
+.image-5 {
+  width: 21px;
+  height: 23px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.image-6 {
+  width: 23px;
+  height: 23px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 500px;
+}
+
+.or-sign-up-using-1 {
+  font-weight: 300;
+}
+
+.sign-up {
+  margin-bottom: 19px;
+  font-weight: 700;
+}
