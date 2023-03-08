@@ -1,0 +1,33 @@
+.input {
+    margin-top: 30%;
+    height:63px;
+    width:250px;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    color: white;
+    background-color: rgb(37, 85, 240);
+    margin-left: 60%;
+   border-radius: 30px;
+    font-size: larger;
+  }
+  .h1{
+    margin-left: 60%;
+    text-shadow: 0 0 3px #000000, 0 0 5px #0000FF;
+    color:white;
+  }
+  
+  
+.input:active {
+    transform: translateY(4px);
+  }
+.firstpg{
+    background-size: cover;
+    height:568px;
+    margin-top: -20px;
+    background-repeat: no-repeat;
+    background-image: url("https://previews.123rf.com/images/giggsy25/giggsy251711/giggsy25171100134/89624948-smart-doctor-with-a-stethoscope-on-blurred-hospital-background-and-medical-icon-in-hexagonal-shaped.jpg");
+} 
+a{
+  text-decoration: none;
+}
